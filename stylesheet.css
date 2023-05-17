@@ -93,6 +93,7 @@ strong {
 heading {
   font-family: Georgia,'Lato', Verdana, Helvetica, sans-serif;
   font-size: 25px;
+  font-weight: bold;
 }
 
 papertitle {
