@@ -80,42 +80,31 @@ th,
 tr,
 p,
 a {
-  /* font-family: Georgia,'Lato', Verdana, Helvetica, sans-serif;
-   */
-  font-family: 'Titillium Web', Verdana, Helvetica, sans-serif;
-  font-size: 14px;
+  font-family: Georgia,'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 20px;
   /* line-height: 1.4 */
 }
 
 strong {
-  /* font-family: Georgia,'Lato', Verdana, Helvetica, sans-serif; */
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px;
+  font-family: Georgia,'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 17px;
 }
 
 heading {
-  /* font-family: Georgia,'Lato', Verdana, Helvetica, sans-serif; */
-  /* font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 22px;
-  font-weight: bold; */
-  margin: 0;
-  font-weight: normal;
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 22px;
+  font-family: Georgia,'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 25px;
 }
 
 papertitle {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px;
+  font-family: Georgia,'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 17px;
   font-weight: 700;
-  /* color:#08306b */
+  color:#1772d0
 }
 
 name {
-  padding-top: 20px;
-  margin: 0;
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 32px;
+  font-family: Georgia,'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 35px;
 }
 
 .one {
