@@ -82,18 +82,18 @@ p,
 a {
   /* font-family: Georgia,'Lato', Verdana, Helvetica, sans-serif; */
   font-family: 'Titillium Web', Verdana, Helvetica, sans-serif;
-  font-size: 15px;
+  font-size: 17px;
   /* line-height: 1.4 */
 }
 
 strong {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px;
+  font-size: 17px;
 }
 
 heading {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 22px;
+  font-size: 25px;
 }
 
 papertitle {
@@ -150,5 +150,5 @@ span.highlight {
 }
 
 .special{
-  font-size: 15px;
+  font-size: 20px;
 }
