@@ -80,31 +80,31 @@ th,
 tr,
 p,
 a {
-  /* font-family: Georgia,'Lato', Verdana, Helvetica, sans-serif; */
-  font-family: 'Titillium Web', Verdana, Helvetica, sans-serif;
-  font-size: 17px;
-  /* line-height: 1.4 */
+  font-family: Georgia,'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 20px;
+  line-height: 1.4
 }
 
 strong {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-family: Georgia,'Lato', Verdana, Helvetica, sans-serif;
   font-size: 17px;
 }
 
 heading {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-family: Georgia,'Lato', Verdana, Helvetica, sans-serif;
   font-size: 25px;
+  font-weight: bold;
 }
 
 papertitle {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px;
+  font-family: Georgia,'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 17px;
   font-weight: 700;
   color:#1772d0
 }
 
 name {
-  font-family:'Lato', Verdana, Helvetica, sans-serif;
+  font-family: Georgia,'Lato', Verdana, Helvetica, sans-serif;
   font-size: 35px;
 }
 
